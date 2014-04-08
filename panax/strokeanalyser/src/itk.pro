@@ -1,0 +1,3 @@
+QMAKE_CXXFLAGS += -Wno-deprecated -g
+INCLUDEPATH += /usr/local/include/itk
+LIBS += -L/usr/local/lib/itk -lITKCommon-4.2 -lITKDICOMParser-4.2 -litkgdcmCommon-4.2 -litkgdcmDICT-4.2 -litkjpeg-4.2 -lITKIOGDCM-4.2 -lITKIOImageBase-4.2 -lITKIOJPEG-4.2 -lITKIOMesh-4.2 -lITKIOMeta-4.2 -lITKIOPNG-4.2 -lITKIOTIFF-4.2 -lITKIOVTK-4.2 -lITKKLMRegionGrowing-4.2 -lITKMesh-4.2 -lITKMetaIO-4.2 -lITKOptimizers-4.2 -litkpng-4.2 -litkvnl-4.2 -litkvnl_algo-4.2 -litksys-4.2 -litktiff-4.2 -lITKVTK-4.2 -lparam

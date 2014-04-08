@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mesh>
+    <MeshListLength>5</MeshListLength>
+    <Mesh0>/home/parallels/Desktop/Panax/anatomyannotator/head/craniofacial.ply</Mesh0>
+    <Mesh1>/home/parallels/Desktop/Panax/anatomyannotator/head/facial-2.ply</Mesh1>
+    <Mesh2>/home/parallels/Desktop/Panax/anatomyannotator/head/facial-3.ply</Mesh2>
+    <Mesh3>/home/parallels/Desktop/Panax/anatomyannotator/head/facial-4.ply</Mesh3>
+    <Mesh4>/home/parallels/Desktop/Panax/anatomyannotator/head/facial-5.ply</Mesh4>
+</Mesh>
